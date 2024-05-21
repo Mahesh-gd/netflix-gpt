@@ -48,7 +48,7 @@
 - Adding .env file to gitignore
 - Made our Site Responsive
 
-# Features
+# Feautures
 - Login/Sign Up
     - Sign In /Sign up Form
     - redirect to Browse Page
